@@ -9,12 +9,13 @@ body {
 h3 {
 	color: #4D4D4D;
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 5px;
 	font-size: 7em;
-	 text-shadow: 1px 2px 3px #0A0A0A;
+	text-shadow: 1px 2px 3px #0A0A0A;
 }
 h1 {
 	text-align: center;
+	margin-top: 80px;
 
 }
 #feedback-page{
@@ -37,7 +38,7 @@ h1 {
 	float: left;
 	left: 50%;
 	position: absolute;
-  margin-top:30px;
+
 	margin-left: -260px;
   -moz-border-radius: 7px;
   -webkit-border-radius: 7px;
